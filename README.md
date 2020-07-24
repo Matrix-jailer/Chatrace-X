@@ -1,4 +1,4 @@
-## 🔥Chatrace Tutorial🔥
+# Chatrace-X
 
 ![images](https://user-images.githubusercontent.com/66746496/88414419-3e5aac00-cdf6-11ea-8d43-98468364fb29.jpeg)
 
