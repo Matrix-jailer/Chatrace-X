@@ -42,4 +42,4 @@ of any person by chatting on social sites.
 
 4️⃣ Now note down the IP address of a person.
 
-5️⃣ Now you need to scan that IP address to know the actual location of the person that you can check out from http://www.ip-adress.com/ip_tracer/ 
+5️⃣ Now you need to scan that IP address to know the actual location of the person that you can check out from [Click Here](http://www.ip-adress.com/ip_tracer)
