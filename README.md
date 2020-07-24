@@ -1,1 +1,1 @@
-## 🔥Chatrace-X Tutorial🔥
+## 🔥 Chatrace Tutorial 🔥
