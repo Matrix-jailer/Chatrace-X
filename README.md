@@ -34,12 +34,12 @@ of any person by chatting on social sites.
 
 • Just Follow the steps below to proceed.
 
-1️⃣ First of all, start chatting with your friend whose IP address you want to get and make sure that all other apps and background process must be stopped. Now press Win+R of your keyboard.
+• First of all, start chatting with your friend whose IP address you want to get and make sure that all other apps and background process must be stopped. Now press Win+R of your keyboard.
 
-2️⃣ Now type cmd and hit enter.
+• Now type cmd and hit enter.
 
-3️⃣ Now at the command prompt that appears type netstat -an and hit enter.
+• Now at the command prompt that appears type netstat -an and hit enter.
 
-4️⃣ Now note down the IP address of a person.
+• Now note down the IP address of a person.
 
-5️⃣ Now you need to scan that IP address to know the actual location of the person that you can check out from [Click Here](http://www.ip-adress.com/ip_tracer)
+• Now you need to scan that IP address to know the actual location of the person that you can check out from [Click Here](http://www.ip-adress.com/ip_tracer)
